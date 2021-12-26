@@ -41,3 +41,5 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm run dev
 npm install --save-dev @types/react typescript
+
+Icones do heroicons
