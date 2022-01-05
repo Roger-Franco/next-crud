@@ -41,5 +41,6 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm run dev
 npm install --save-dev @types/react typescript
+npm install firebase@8.8.0
 
 Icones do heroicons
